@@ -5,7 +5,7 @@ Perkenalkan nama saya **Ulfa Khoirin Nisa'**.<br>
 Saya seorang **Mahasiswa** di Universitas Sebelas Maret.<br>
 
 Saya mengikuti kelas di Dicoding University, sejak September 2023.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun (https://github.com/ulfa-khoirin-nisa)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun (https://github.com/ulfa-khoirin-nisa) ku ya.
 
 ### Github Statistic
 <p align="left">
